@@ -159,3 +159,5 @@ Save/load functionality
 Graphical interface upgrade
 
 This project demonstrates C++ game development fundamentals including memory management, 2D array manipulation, and console-based user interaction
+
+🎶👹🚘
